@@ -1,3 +1,2 @@
 # Convex-Asignment
-mvvn
-bmnbm
+Solution of Some Convex problem
